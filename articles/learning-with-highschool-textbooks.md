@@ -26,10 +26,10 @@ published: true
 ・特に情報学部の大学生(２年生以上)
 
 ## 取得するメリット
-以下の３つのサイトを見てみると技術士(情報工学)のメリットを感じることができると思います。
+以下の2つのサイトを見てみると技術士(情報工学)のメリットを感じることができると思います。
 
 - [情報工学部門の技術士がフリーランスとしてどんな仕事をしているのか？](https://note.com/masuipeo/n/n8b9ec7848ceb)
-- [ITエンジニアにとって技術士は本当にメリットがないのか？](http://wowlog.green-boy.com/2017/04/it.html)
+- [技術士(情報工学部門) 攻略ガイドブック](https://zenn.dev/dimeiza/books/professional_engineer_guide_book)
 - [情報処理技術者のための技術士受験のすすめ](https://www.slideshare.net/akimicyu/ss-138027220)
 
 ## 勉強法
